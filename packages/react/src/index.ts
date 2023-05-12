@@ -1,3 +1,3 @@
-import { colors } from '@ignite-ui-ecss/tokens';
+import { colors } from '@ignite-ui-ecss/tokens'
 
-console.log(colors);
+console.log(colors)
