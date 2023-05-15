@@ -25,6 +25,9 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
+    "@ignite-ui-ecss/react": "*",
+    "@ignite-ui-ecss/tokens": "*",
+    "@ignite-ui-ecss/eslint-config": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
