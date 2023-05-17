@@ -25,10 +25,11 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
-    "@ignite-ui-ecss/ts-config": "*",
     "@ignite-ui-ecss/eslint-config": "*",
     "@ignite-ui-ecss/react": "*",
     "@ignite-ui-ecss/tokens": "*",
+    "@ignite-ui-ecss/ts-config": "*",
+    "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
