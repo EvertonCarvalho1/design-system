@@ -18,6 +18,7 @@ export default {
       )
     },
   ],
+
 } as Meta<TextInputProps>
 
 export const Primary: StoryObj<TextInputProps> = {
