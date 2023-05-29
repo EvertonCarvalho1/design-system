@@ -6,7 +6,7 @@ export default {
   component: Text,
   args: {
     children:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro reprehenderit est veniam? Rem recusandae sint perspiciatis debitis corrupti. Deserunt neque exercitationem illo voluptatum laudantium culpa suscipit accusantium blanditiis voluptas numquam.',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac fermentum mauris. Donec nunc sem, maximus in mauris vitae, mollis volutpat arcu. Donec ultrices porttitor nisi ut sollicitudin. Pellentesque ultrices varius urna, sit amet sagittis massa laoreet et. Proin rhoncus tortor sit amet sapien ullamcorper, eu commodo nibh faucibus. Donec commodo lacinia nunc ut porta. Ut interdum tellus mollis, tincidunt massa a, interdum enim. Maecenas vitae faucibus felis, ut luctus lacus. Morbi mollis finibus odio, nec iaculis massa mattis vitae.',
   },
 } as Meta<TextProps>
 
