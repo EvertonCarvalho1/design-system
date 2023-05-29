@@ -8,6 +8,13 @@ export default {
     src: 'https://avatars.githubusercontent.com/u/82480230?v=4',
     alt: 'Everton Carvalho',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
