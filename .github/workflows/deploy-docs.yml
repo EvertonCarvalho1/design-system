@@ -24,8 +24,8 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: pscZPQU2ZJKQDml4FJLnA03B
-          TURBO_TEAM: evertoncarvalho1-s-team
+          TURBO_TOKEN: dKrSPN4w8xKqSd5Y4S3B1FvA
+          TURBO_TEAM: evertoncarvalho1
 
       - name: Deploy storybook
         working-directory: ./packages/docs
@@ -34,5 +34,3 @@ jobs:
           GH_TOKEN: ${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}
 
 
-
-#t9FQdgoC3WmaIEDkmljb494H
