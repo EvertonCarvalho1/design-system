@@ -1,0 +1,2 @@
+import{A as t}from"./index.f98c2fb1.js";import"./index.5e0a5ecb.js";import"./iframe.7d90fffc.js";import"./index.a6d3c412.js";import"./jsx-runtime.c12fc25e.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://avatars.githubusercontent.com/u/82480230?v=4",alt:"Everton Carvalho"},argTypes:{src:{control:{type:"text"}}}},e={},p={args:{src:void 0}},m=["Primary","WithFallback"];export{e as Primary,p as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.0f6bf19f.js.map
